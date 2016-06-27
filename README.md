@@ -5,7 +5,7 @@ Just for fun.
 
 Enable BlingBling Click Effect By (No need to change your layout):
 
-```
+```java
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,8 +20,6 @@ Enable BlingBling Click Effect By (No need to change your layout):
 ```
 
 ![Alt text](screenshots/1.jpeg)
-
-![Alt text](screenshots/2.jpeg)
 
 ![Alt text](screenshots/3.jpeg)
 
