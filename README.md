@@ -19,5 +19,11 @@ Enable BlingBling Click Effect By (No need to change your layout):
     
 ```
 
+![Alt text](screenshots/1.jpeg)
+
+![Alt text](screenshots/2.jpeg)
+
+![Alt text](screenshots/3.jpeg)
+
 
 
