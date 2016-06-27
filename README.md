@@ -3,7 +3,7 @@ Bling Bling Click Effect of Android
 
 Just for fun. 
 
-Enable BlingBling Click Effect By (No need to change your layout):
+Enable BlingBling click effect in Activity's onCreate function without modifying layout xml:
 
 ```java
 	@Override
